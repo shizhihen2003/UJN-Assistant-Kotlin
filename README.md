@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="Images/ico.png" width="130" height="130" alt="UJN"></a>
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="Images/ico.png" width="130" height="130" alt="UJN"></a>)
+
+[//]: # (</p>)
 
 <div align="center">
 
 # 济大助手
 
 ✨ 济南大学-教务系统APP ✨
+</div>
 
 ### 功能简介 📃
 
